@@ -54,3 +54,4 @@ if (class_exists('WooCommerce')) {
 }
 
 get_footer();
+?>
